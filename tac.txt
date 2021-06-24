@@ -1,0 +1,23 @@
+In >> i
+while i GT 0 goto 4
+goto 24
+first = 0
+j = 1
+while j LT i goto 8
+goto 12
+write(j)
+temp1 = j + 1
+j = temp1
+goto 6
+if j EQ 1 goto 14
+goto 16
+print(j)
+goto 21
+elif j EQ 2 goto 18
+goto 20
+println(j)
+goto 21
+println(i)
+temp2=i-1
+i = temp2
+goto 2

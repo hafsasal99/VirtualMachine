@@ -1,0 +1,13 @@
+i	Integer	0
+j	Integer	4
+first	Integer	8
+temp	Integer	12
+0	Integer	16
+0	Integer	20
+1	Integer	24
+1	Integer	28
+temp1	Integer	32
+1	Integer	36
+2	Integer	40
+1	Integer	44
+temp2	Integer	48
